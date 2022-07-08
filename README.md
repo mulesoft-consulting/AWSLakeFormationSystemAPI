@@ -1,4 +1,4 @@
-# AWS-Glue-System-API
+# AWSLakeFormationSystemAPI
 System API to integrate with AWS LakeFormation and search LakeFormation database and/or tables by lf tags 
 
 # Pre-requisites:
